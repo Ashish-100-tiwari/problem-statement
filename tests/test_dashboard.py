@@ -1,4 +1,3 @@
-# tests/test_dashboard.py
 from pact import Consumer, Provider
 
 # Define Consumer and Provider

@@ -1,4 +1,3 @@
-# dashboard_service/main.py
 from fastapi import FastAPI, HTTPException
 import requests
 
